@@ -22,5 +22,5 @@ yarn-error.log*
 
 # images file
 *.psd
-/img
+/src/img
 *.ini
